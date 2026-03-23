@@ -48,11 +48,6 @@ It provides insights into current weather conditions, forecasts, and air quality
 ```
 weather-dashboard-api-powerbi/
 │
-├── 📁 Dashboard_images/
-│ └── dashboard.png # Dashboard preview image
-│
-├── 📁 Report/
-│ └── WeatherDashboard.pbix # Power BI report file
-│
-└── 📄 README.md # Project documentation
+├── Dashboard_images/   → Dashboard preview images
+└── Report/             → Power BI (.pbix)
 ```
