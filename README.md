@@ -79,8 +79,15 @@ weather-dashboard-api-powerbi/
 
 ---
 
-## 📬 Connect With Me
-- 💼 LinkedIn: https://your-linkedin-link  
-- 💻 GitHub: https://github.com/rakeshchavan-analytics  
+# 👨‍💻 Author
+
+**Rakesh Chavan**  
+
+Data Analyst | Power BI • SQL • DAX  • Excel  
+
+📧 Email: chavanrakesh666@gmail.com  
+🔗 LinkedIn: [Rakesh Chavan](https://www.linkedin.com/in/rakesh-chavan-1b3ab9136/)  
+💻 GitHub: [rakeshchavan-analytics](https://github.com/rakeshchavan-analytics)  
+🌐 Portfolio: [Explore My Work](https://sites.google.com/view/rakeshchavan09/home) 
 
 ---
