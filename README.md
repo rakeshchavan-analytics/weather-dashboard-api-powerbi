@@ -18,7 +18,7 @@ It provides insights into current weather conditions, forecasts, and air quality
 ---
 
 ## 🖼️ Dashboard Preview
-![Weather Dashboard](./Dashboard_images/Live Weather Report)
+![Weather Dashboard](./Dashboard_images/Live Weather Report.png)
 
 ---
 
