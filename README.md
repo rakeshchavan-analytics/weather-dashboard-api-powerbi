@@ -1,4 +1,4 @@
-# 🌦️ Live Weather Dashboard (Power BI)
+# 🌦️ Live Weather Dashboard
 
 ## 📌 Project Overview
 This project is a **real-time weather dashboard** built using **Power BI** by integrating live data from a Weather API.  
@@ -18,7 +18,7 @@ It provides insights into current weather conditions, forecasts, and air quality
 ---
 
 ## 🖼️ Dashboard Preview
-![Weather Dashboard](./Dashboard_images/dashboard.png)
+![Weather Dashboard](./Dashboard_images/Live Weather Report)
 
 ---
 
