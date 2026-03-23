@@ -51,3 +51,36 @@ weather-dashboard-api-powerbi/
 ├── Dashboard_images/   → Dashboard preview images
 └── Report/             → Power BI (.pbix)
 ```
+---
+
+## 📊 Dashboard Insights
+- Track temperature trends across days  
+- Monitor real-time weather conditions  
+- Analyze rain probability  
+- Evaluate air quality using AQI metrics  
+
+---
+
+## 🎯 Use Case
+- Daily weather monitoring  
+- Travel planning  
+- Environmental analysis  
+- Portfolio project for Data Analyst role  
+
+---
+
+## 🔮 Future Scope
+- 🌍 Multi-city comparison dashboard  
+- 📱 Mobile-friendly layout optimization  
+- 🔔 Weather alerts & notifications  
+- 🤖 AI-based weather prediction  
+- 📈 Historical weather trend analysis  
+- 🌐 Publish dashboard for public access  
+
+---
+
+## 📬 Connect With Me
+- 💼 LinkedIn: https://your-linkedin-link  
+- 💻 GitHub: https://github.com/rakeshchavan-analytics  
+
+---
